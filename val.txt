@@ -1,0 +1,4 @@
+Attention mechanisms help models understand relationships between tokens.
+Neural networks can learn complex representations of data.
+Artificial intelligence is changing the way we live and work.
+Transformers are powerful neural network architectures.

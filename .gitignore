@@ -1,0 +1,31 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated outputs
+outputs/
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Training data
+data/sherlock.txt
+data/sherlock_clean.txt
+data/train_v4.txt
+data/val_v4.txt
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
